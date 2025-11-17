@@ -1,18 +1,39 @@
 {
   "name": "AntiBot",
-  "author": "MrStudios Industries (www.mrstudios.pl)",
-  "version": "2.3.3",
-  "keys": [
+  "author": "eversi.de solutions (www.eversi.de)",
+  "version": "2.3.4",
+  "assets": [
     {
-      "name": "Software Decryption Key",
-      "cryptography": "AES (256 bit)",
-      "encryption": "Bit Shift (Pattern Three)",
-      "bytes": [
-        36, 46, 09, 30, 00, 96, 24, 75, 23, 73, 27, 18, 95, 52,
-        70, 56, 60, 92, 43, 44, 77, 21, 96, 66, 69, 56, 29, 77,
-        78, 70, 24, 12, 56, 47, 49, 11, 22, 20, 47, 39, 63, 21,
-        51, 88, 33, 56, 78, 91, 00, 01, 07, 92, 33, 42, 00, 02
-      ]
+      "id": "banner.png",
+      "path": "assets/img/banner.png"
+    },
+    {
+      "id": "captcha_check.gif",
+      "path": "assets/img/captcha_check.gif"
+    },
+    {
+      "id": "click_block_challenge.gif",
+      "path": "assets/img/click_block_challenge.gif"
+    },
+    {
+      "id": "collect_items_challenge.gif",
+      "path": "assets/img/collect_items_challenge.gif"
+    },
+    {
+      "id": "eat_food_challange.gif",
+      "path": "assets/img/eat_food_challange.gif"
+    },
+    {
+      "id": "gravity_check.gif",
+      "path": "assets/img/gravity_check.gif"
+    },
+    {
+      "id": "sneak_challenge.gif",
+      "path": "assets/img/sneak_challenge.gif"
+    },
+    {
+      "id": "walk_to_challenge.gif",
+      "path": "assets/img/walk_to_challenge.gif"
     }
   ]
 }

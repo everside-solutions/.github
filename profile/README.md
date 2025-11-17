@@ -1,23 +1,21 @@
-## 👋 Hello!
-Welcome to the MrStudios Industries GitHub profile. In brief, we specialize in developing private and open-source software and libraries in Java and C/C++ languages.
+### Hello There 👋
 
-## 💻 Used Technologies
+We are a team of developers creating open-source and closed-source software and libraries which are intended to be used in production environments.
+Our mission is to provide the best possible solutions for our customers and also support open-source software development.
 
-<div align="center">
+🔧 **Technologies**
 
-![MySQL](../assets/img/technologies/mysql.svg)
-![Redis](../assets/img/technologies/kafka.svg)
-![Redis](../assets/img/technologies/redis.svg)
-![Spring Boot](../assets/img/technologies/spring.svg)
-![ArchLinux](../assets/img/technologies/archlinux.svg)
-![Docker](../assets/img/technologies/docker.svg)
+![MySQL](profile/assets/img/technologies/mysql.png)
+![Kafka](profile/assets/img/technologies/kafka.png)
+![Redis](profile/assets/img/technologies/redis.png)
+![Gradle](profile/assets/img/technologies/gradle.png)
+![CMake](profile/assets/img/technologies/cmake.png)
+![Docker](profile/assets/img/technologies/docker.png)
+![Git](profile/assets/img/technologies/git.png)
 
-</div>
+📞 **Contact**
 
-## ☎️ Contact
-<div align="center">
-
-### Discord Server
-![Discord](https://discord.com/api/guilds/908864960698921000/widget.png?style=banner2)
-
-</div>
+<pre>
+📧 Email: <a href="mailto:contact@eversi.de">contact@eversi.de</a>
+💬 Discord: <a href="https://discord.com/invite/C8dF6zkYff">@eversi.de solutions</a>
+</pre>
