@@ -5,13 +5,13 @@ Our mission is to provide the best possible solutions for our customers and also
 
 🔧 **Technologies**
 
-![MySQL](profile/assets/img/technologies/mysql.png)
-![Kafka](profile/assets/img/technologies/kafka.png)
-![Redis](profile/assets/img/technologies/redis.png)
-![Gradle](profile/assets/img/technologies/gradle.png)
-![CMake](profile/assets/img/technologies/cmake.png)
-![Docker](profile/assets/img/technologies/docker.png)
-![Git](profile/assets/img/technologies/git.png)
+![MySQL](assets/img/technologies/mysql.png)
+![Kafka](assets/img/technologies/kafka.png)
+![Redis](assets/img/technologies/redis.png)
+![Gradle](assets/img/technologies/gradle.png)
+![CMake](assets/img/technologies/cmake.png)
+![Docker](assets/img/technologies/docker.png)
+![Git](assets/img/technologies/git.png)
 
 📞 **Contact**
 
